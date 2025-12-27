@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> I'm Shayan
+  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> I'm AmirMohammad
 </h1>
 
 <h3 align="center">
@@ -15,8 +15,8 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Computer Engineering Student (3rd Semester)
-- ⭐ **Primary Stack:** **C / C++ / JavaScript**
+- 🎓 Computer Engineering Student
+- ⭐ **Core Languages:** **C / C++ / JavaScript**
 - 🐍 Worked with **Python**
 - 📱 Familiar with **Kotlin**
 - 🎯 Interested in **Algorithms & frontend Development**
