@@ -38,7 +38,7 @@
 ### 🚀 Languages & Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="44" alt="C"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" alt="C"/>
   </a>
 
   <a href="https://isocpp.org/" target="_blank">
