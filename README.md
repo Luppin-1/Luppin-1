@@ -47,13 +47,6 @@
 ---
 
 ### 🌍 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://t.me/AmirMohammad_Ehsani" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+<p><a target="_blank" href="https://www.linkedin.com/in" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href=""https://t.me/AmirMohammad_Ehsani" style="display: inline-block;"><img src="https://img.shields.io/badge/Telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=%23F35369" alt="telegram" /></a></p>
 
