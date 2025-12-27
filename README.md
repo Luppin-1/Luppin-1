@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Amir
+## 👋 Hi, I'm AmirMohammad
 Computer Engineering student (3rd semester)
 
 ### 💻 Skills
@@ -9,8 +9,8 @@ Computer Engineering student (3rd semester)
 
 ### 📌 Interests
 - Problem Solving
-- Backend Development
+- frontend Development
 - Algorithms & Data Structures
 
 ### 📫 Contact
-- Email: your.email@gmail.com
+- Email: amirmohamad.ehsani85@gmail.com
